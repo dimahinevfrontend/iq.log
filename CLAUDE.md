@@ -30,3 +30,4 @@ Modern LinkedIn clone for developers. Fast, beautiful, feature-rich.
 - Mobile-first, pixel-perfect implementation matching Pencil design
 - Performance: Core Web Vitals green
 - Accessibility: WCAG 2.1 AA
+- у нас минимализм, чем меньше отвликающих элементов, тем лучше
