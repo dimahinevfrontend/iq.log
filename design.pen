@@ -276,7 +276,7 @@
               "name": "colorTitle",
               "fill": "$--accent",
               "content": "COLORS",
-              "fontFamily": "JetBrains Mono",
+              "fontFamily": "$--font-mono",
               "fontSize": 11,
               "fontWeight": "600",
               "letterSpacing": 2
@@ -335,7 +335,7 @@
                           "fill": "$--text-tertiary",
                           "content": "Page\n#0A0F1C",
                           "lineHeight": 1.5,
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 11,
                           "fontWeight": "500"
                         }
@@ -365,7 +365,7 @@
                           "fill": "$--text-tertiary",
                           "content": "Card\n#111827",
                           "lineHeight": 1.5,
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 11,
                           "fontWeight": "500"
                         }
@@ -395,7 +395,7 @@
                           "fill": "$--text-tertiary",
                           "content": "Surface\n#1E293B",
                           "lineHeight": 1.5,
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 11,
                           "fontWeight": "500"
                         }
@@ -425,7 +425,7 @@
                           "fill": "$--text-tertiary",
                           "content": "Inset\n#0F172A",
                           "lineHeight": 1.5,
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 11,
                           "fontWeight": "500"
                         }
@@ -484,7 +484,7 @@
                           "fill": "$--text-tertiary",
                           "content": "Accent\n#22D3EE",
                           "lineHeight": 1.5,
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 11,
                           "fontWeight": "500"
                         }
@@ -514,7 +514,7 @@
                           "fill": "$--text-tertiary",
                           "content": "Accent Hover\n#06B6D4",
                           "lineHeight": 1.5,
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 11,
                           "fontWeight": "500"
                         }
@@ -544,7 +544,7 @@
                           "fill": "$--text-tertiary",
                           "content": "Accent Muted\n#164E63",
                           "lineHeight": 1.5,
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 11,
                           "fontWeight": "500"
                         }
@@ -583,7 +583,7 @@
                           "fill": "$--text-tertiary",
                           "content": "Primary\n#FFFFFF",
                           "lineHeight": 1.5,
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 11,
                           "fontWeight": "500"
                         }
@@ -613,7 +613,7 @@
                           "fill": "$--text-tertiary",
                           "content": "Secondary\n#94A3B8",
                           "lineHeight": 1.5,
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 11,
                           "fontWeight": "500"
                         }
@@ -643,7 +643,7 @@
                           "fill": "$--text-tertiary",
                           "content": "Tertiary\n#64748B",
                           "lineHeight": 1.5,
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 11,
                           "fontWeight": "500"
                         }
@@ -673,7 +673,7 @@
                           "fill": "$--text-tertiary",
                           "content": "Muted\n#475569",
                           "lineHeight": 1.5,
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 11,
                           "fontWeight": "500"
                         }
@@ -732,7 +732,7 @@
                           "fill": "$--text-tertiary",
                           "content": "Destructive\n#EF4444",
                           "lineHeight": 1.5,
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 11,
                           "fontWeight": "500"
                         }
@@ -762,7 +762,7 @@
                           "fill": "$--text-tertiary",
                           "content": "Success\n#22C55E",
                           "lineHeight": 1.5,
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 11,
                           "fontWeight": "500"
                         }
@@ -792,7 +792,7 @@
                           "fill": "$--text-tertiary",
                           "content": "Warning\n#F59E0B",
                           "lineHeight": 1.5,
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 11,
                           "fontWeight": "500"
                         }
@@ -822,7 +822,7 @@
                           "fill": "$--text-tertiary",
                           "content": "Border\n#1E293B",
                           "lineHeight": 1.5,
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 11,
                           "fontWeight": "500"
                         }
@@ -848,7 +848,7 @@
               "name": "btnTitle",
               "fill": "$--accent",
               "content": "BUTTONS",
-              "fontFamily": "JetBrains Mono",
+              "fontFamily": "$--font-mono",
               "fontSize": 11,
               "fontWeight": "600",
               "letterSpacing": 2
@@ -1072,7 +1072,7 @@
               "name": "feedTitle",
               "fill": "$--accent",
               "content": "FEED COMPONENTS",
-              "fontFamily": "JetBrains Mono",
+              "fontFamily": "$--font-mono",
               "fontSize": 11,
               "fontWeight": "600",
               "letterSpacing": 2
@@ -1529,7 +1529,7 @@
                       "name": "Value",
                       "fill": "$Y:--foreground",
                       "content": "0",
-                      "fontFamily": "JetBrains Mono",
+                      "fontFamily": "$--font-mono",
                       "fontSize": 14,
                       "fontWeight": "700"
                     },
@@ -1943,7 +1943,7 @@
                           "name": "profileAvatarText",
                           "fill": "$--text-inverted",
                           "content": "DH",
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 20,
                           "fontWeight": "700"
                         }
@@ -1955,7 +1955,7 @@
                       "name": "profileName",
                       "fill": "$--text-primary",
                       "content": "dima_hinev",
-                      "fontFamily": "JetBrains Mono",
+                      "fontFamily": "$--font-mono",
                       "fontSize": 14,
                       "fontWeight": "600"
                     },
@@ -1965,7 +1965,7 @@
                       "name": "profileRole",
                       "fill": "$--text-muted",
                       "content": "// senior frontend engineer",
-                      "fontFamily": "JetBrains Mono",
+                      "fontFamily": "$--font-mono",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -2001,7 +2001,8 @@
                             },
                             "NltfD": {
                               "content": "insights",
-                              "y": 20
+                              "y": 20,
+                              "fill": "$--text-muted"
                             }
                           }
                         },
@@ -2023,7 +2024,8 @@
                             "NltfD": {
                               "content": "karma",
                               "x": 0.5,
-                              "y": 20
+                              "y": 20,
+                              "fill": "$--text-muted"
                             }
                           }
                         },
@@ -2045,7 +2047,8 @@
                             },
                             "NltfD": {
                               "content": "endorsements",
-                              "y": 20
+                              "y": 20,
+                              "fill": "$--text-muted"
                             }
                           }
                         }
@@ -2075,7 +2078,7 @@
                       "name": "hvsLabel",
                       "fill": "$--text-muted",
                       "content": "human_value_score",
-                      "fontFamily": "JetBrains Mono",
+                      "fontFamily": "$--font-mono",
                       "fontSize": 11,
                       "fontWeight": "500"
                     },
@@ -2093,7 +2096,7 @@
                           "name": "hvsValue",
                           "fill": "$--accent",
                           "content": "87.4",
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 32,
                           "fontWeight": "700"
                         },
@@ -2103,7 +2106,7 @@
                           "name": "hvsMax",
                           "fill": "$--text-muted",
                           "content": "/ 100",
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 14,
                           "fontWeight": "normal"
                         }
@@ -2135,7 +2138,7 @@
                       "name": "hvsChange",
                       "fill": "$--success",
                       "content": "↑ +2.3 this week",
-                      "fontFamily": "JetBrains Mono",
+                      "fontFamily": "$--font-mono",
                       "fontSize": 11,
                       "fontWeight": "500"
                     }
@@ -2163,7 +2166,7 @@
                       "name": "visLabel",
                       "fill": "$--text-muted",
                       "content": "visibility_meter",
-                      "fontFamily": "JetBrains Mono",
+                      "fontFamily": "$--font-mono",
                       "fontSize": 11,
                       "fontWeight": "500"
                     },
@@ -2181,7 +2184,7 @@
                           "name": "visRank",
                           "fill": "$--text-primary",
                           "content": "#124",
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 24,
                           "fontWeight": "700"
                         },
@@ -2191,7 +2194,7 @@
                           "name": "visTotal",
                           "fill": "$--text-muted",
                           "content": "of 8,420",
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 12,
                           "fontWeight": "normal"
                         }
@@ -2211,7 +2214,7 @@
                           "cornerRadius": 2,
                           "id": "MMeOi",
                           "name": "visBarFill",
-                          "fill": "$--success",
+                          "fill": "$--accent",
                           "width": 200,
                           "height": 4
                         }
@@ -2223,7 +2226,7 @@
                       "name": "visDesc",
                       "fill": "$--text-muted",
                       "content": "// top 1.5% in recruiter search",
-                      "fontFamily": "JetBrains Mono",
+                      "fontFamily": "$--font-mono",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     }
@@ -2251,7 +2254,7 @@
                       "name": "skillsLabel",
                       "fill": "$--text-muted",
                       "content": "skill_wisdom",
-                      "fontFamily": "JetBrains Mono",
+                      "fontFamily": "$--font-mono",
                       "fontSize": 11,
                       "fontWeight": "500"
                     },
@@ -2284,7 +2287,7 @@
                               "name": "tag1Text",
                               "fill": "$--accent",
                               "content": "system_design",
-                              "fontFamily": "JetBrains Mono",
+                              "fontFamily": "$--font-mono",
                               "fontSize": 11,
                               "fontWeight": "500"
                             }
@@ -2312,7 +2315,7 @@
                               "name": "tag2Text",
                               "fill": "$--accent",
                               "content": "full-stack",
-                              "fontFamily": "JetBrains Mono",
+                              "fontFamily": "$--font-mono",
                               "fontSize": 11,
                               "fontWeight": "500"
                             }
@@ -2349,7 +2352,7 @@
                               "name": "tag3Text",
                               "fill": "$--accent",
                               "content": "ai_orchestration",
-                              "fontFamily": "JetBrains Mono",
+                              "fontFamily": "$--font-mono",
                               "fontSize": 11,
                               "fontWeight": "500"
                             }
@@ -2377,7 +2380,7 @@
                               "name": "tag4Text",
                               "fill": "$--accent",
                               "content": "react",
-                              "fontFamily": "JetBrains Mono",
+                              "fontFamily": "$--font-mono",
                               "fontSize": 11,
                               "fontWeight": "500"
                             }
@@ -2415,7 +2418,7 @@
                       "name": "streamTitle",
                       "fill": "$--text-primary",
                       "content": "> insight_stream",
-                      "fontFamily": "JetBrains Mono",
+                      "fontFamily": "$--font-mono",
                       "fontSize": 16,
                       "fontWeight": "600"
                     },
@@ -2470,7 +2473,7 @@
                           "name": "fAllText",
                           "fill": "$--text-inverted",
                           "content": "all",
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 12,
                           "fontWeight": "500"
                         }
@@ -2498,7 +2501,7 @@
                           "name": "fDecisionText",
                           "fill": "$--text-secondary",
                           "content": "decision_logs",
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 12,
                           "fontWeight": "normal"
                         }
@@ -2526,7 +2529,7 @@
                           "name": "fPostmortemText",
                           "fill": "$--text-secondary",
                           "content": "post_mortems",
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 12,
                           "fontWeight": "normal"
                         }
@@ -2554,7 +2557,7 @@
                           "name": "fAIText",
                           "fill": "$--text-secondary",
                           "content": "ai_strategies",
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 12,
                           "fontWeight": "normal"
                         }
@@ -2652,7 +2655,7 @@
                               "name": "post1TagText",
                               "fill": "$--accent",
                               "content": "design_system",
-                              "fontFamily": "JetBrains Mono",
+                              "fontFamily": "$--font-mono",
                               "fontSize": 10,
                               "fontWeight": "500"
                             }
@@ -2666,7 +2669,7 @@
                           "textGrowth": "fixed-width",
                           "width": "fill_container",
                           "content": "building a component library that scales with 500+ screens",
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 14,
                           "fontWeight": "600"
                         },
@@ -2679,7 +2682,7 @@
                           "width": "fill_container",
                           "content": "shared components, tokens, and patterns we use across our web and mobile products. how we reduced CSS bundle size by 40% and improved team velocity...",
                           "lineHeight": 1.6,
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 12,
                           "fontWeight": "normal"
                         }
@@ -2885,7 +2888,7 @@
                               "name": "post2TagText",
                               "fill": "$--warning",
                               "content": "performance",
-                              "fontFamily": "JetBrains Mono",
+                              "fontFamily": "$--font-mono",
                               "fontSize": 10,
                               "fontWeight": "500"
                             }
@@ -2899,7 +2902,7 @@
                           "textGrowth": "fixed-width",
                           "width": "fill_container",
                           "content": "how poor font loading killed our web vitals score",
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 14,
                           "fontWeight": "600"
                         },
@@ -2912,7 +2915,7 @@
                           "width": "fill_container",
                           "content": "our lighthouse score dropped from 98 to 62 after adding custom fonts. here's the debugging journey, the solution we implemented, and what we learned about web performance...",
                           "lineHeight": 1.6,
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 12,
                           "fontWeight": "normal"
                         }
@@ -3061,7 +3064,7 @@
                       "name": "offersTitle",
                       "fill": "$--text-primary",
                       "content": "> verified_offers",
-                      "fontFamily": "JetBrains Mono",
+                      "fontFamily": "$--font-mono",
                       "fontSize": 13,
                       "fontWeight": "600"
                     },
@@ -3082,7 +3085,7 @@
                           "name": "offersBadgeText",
                           "fill": "$--accent",
                           "content": "3 new",
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 10,
                           "fontWeight": "500"
                         }
@@ -3120,8 +3123,8 @@
                           "name": "offer1Name",
                           "fill": "$--text-primary",
                           "content": "google",
-                          "fontFamily": "JetBrains Mono",
-                          "fontSize": 13,
+                          "fontFamily": "$--font-mono",
+                          "fontSize": 14,
                           "fontWeight": "600"
                         },
                         {
@@ -3141,7 +3144,7 @@
                               "name": "offer1RemoteText",
                               "fill": "$--success",
                               "content": "remote",
-                              "fontFamily": "JetBrains Mono",
+                              "fontFamily": "$--font-mono",
                               "fontSize": 10,
                               "fontWeight": "normal"
                             }
@@ -3157,7 +3160,7 @@
                       "textGrowth": "fixed-width",
                       "width": "fill_container",
                       "content": "// senior frontend engineer - search ui",
-                      "fontFamily": "JetBrains Mono",
+                      "fontFamily": "$--font-mono",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -3167,7 +3170,7 @@
                       "name": "offer1Comp",
                       "fill": "$--success",
                       "content": "$180k – $240k",
-                      "fontFamily": "JetBrains Mono",
+                      "fontFamily": "$--font-mono",
                       "fontSize": 14,
                       "fontWeight": "700"
                     }
@@ -3203,7 +3206,7 @@
                           "name": "offer2Name",
                           "fill": "$--text-primary",
                           "content": "stripe",
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 13,
                           "fontWeight": "600"
                         },
@@ -3224,7 +3227,7 @@
                               "name": "offer2RemoteText",
                               "fill": "$--warning",
                               "content": "hybrid",
-                              "fontFamily": "JetBrains Mono",
+                              "fontFamily": "$--font-mono",
                               "fontSize": 10,
                               "fontWeight": "normal"
                             }
@@ -3240,7 +3243,7 @@
                       "textGrowth": "fixed-width",
                       "width": "fill_container",
                       "content": "// lead ui/ux engineer",
-                      "fontFamily": "JetBrains Mono",
+                      "fontFamily": "$--font-mono",
                       "fontSize": 11,
                       "fontWeight": "normal"
                     },
@@ -3250,7 +3253,7 @@
                       "name": "offer2Comp",
                       "fill": "$--success",
                       "content": "$165k – $220k",
-                      "fontFamily": "JetBrains Mono",
+                      "fontFamily": "$--font-mono",
                       "fontSize": 14,
                       "fontWeight": "700"
                     }
@@ -3278,7 +3281,7 @@
                       "name": "karmaTitle",
                       "fill": "$--text-muted",
                       "content": "karma_leaderboard",
-                      "fontFamily": "JetBrains Mono",
+                      "fontFamily": "$--font-mono",
                       "fontSize": 11,
                       "fontWeight": "500"
                     },
@@ -3303,7 +3306,7 @@
                               "name": "k1Rank",
                               "fill": "$--accent",
                               "content": "01",
-                              "fontFamily": "JetBrains Mono",
+                              "fontFamily": "$--font-mono",
                               "fontSize": 12,
                               "fontWeight": "600"
                             },
@@ -3313,7 +3316,7 @@
                               "name": "k1Name",
                               "fill": "$--text-primary",
                               "content": "sarah_nguyen",
-                              "fontFamily": "JetBrains Mono",
+                              "fontFamily": "$--font-mono",
                               "fontSize": 12,
                               "fontWeight": "500"
                             }
@@ -3325,7 +3328,7 @@
                           "name": "k1Score",
                           "fill": "$--text-secondary",
                           "content": "4,892",
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 12,
                           "fontWeight": "600"
                         }
@@ -3352,7 +3355,7 @@
                               "name": "k2Rank",
                               "fill": "$--accent",
                               "content": "02",
-                              "fontFamily": "JetBrains Mono",
+                              "fontFamily": "$--font-mono",
                               "fontSize": 12,
                               "fontWeight": "600"
                             },
@@ -3362,7 +3365,7 @@
                               "name": "k2Name",
                               "fill": "$--text-primary",
                               "content": "david_park",
-                              "fontFamily": "JetBrains Mono",
+                              "fontFamily": "$--font-mono",
                               "fontSize": 12,
                               "fontWeight": "500"
                             }
@@ -3374,7 +3377,7 @@
                           "name": "k2Score",
                           "fill": "$--text-secondary",
                           "content": "4,201",
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 12,
                           "fontWeight": "600"
                         }
@@ -3401,7 +3404,7 @@
                               "name": "k3Rank",
                               "fill": "$--accent",
                               "content": "03",
-                              "fontFamily": "JetBrains Mono",
+                              "fontFamily": "$--font-mono",
                               "fontSize": 12,
                               "fontWeight": "600"
                             },
@@ -3411,7 +3414,7 @@
                               "name": "k3Name",
                               "fill": "$--accent",
                               "content": "dima_hinev",
-                              "fontFamily": "JetBrains Mono",
+                              "fontFamily": "$--font-mono",
                               "fontSize": 12,
                               "fontWeight": "500"
                             }
@@ -3423,7 +3426,7 @@
                           "name": "k3Score",
                           "fill": "$--text-secondary",
                           "content": "3,847",
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 12,
                           "fontWeight": "600"
                         }
@@ -3450,7 +3453,7 @@
                               "name": "k4Rank",
                               "fill": "$--text-muted",
                               "content": "04",
-                              "fontFamily": "JetBrains Mono",
+                              "fontFamily": "$--font-mono",
                               "fontSize": 12,
                               "fontWeight": "600"
                             },
@@ -3460,7 +3463,7 @@
                               "name": "k4Name",
                               "fill": "$--text-primary",
                               "content": "maria_santos",
-                              "fontFamily": "JetBrains Mono",
+                              "fontFamily": "$--font-mono",
                               "fontSize": 12,
                               "fontWeight": "500"
                             }
@@ -3472,7 +3475,7 @@
                           "name": "k4Score",
                           "fill": "$--text-secondary",
                           "content": "3,512",
-                          "fontFamily": "JetBrains Mono",
+                          "fontFamily": "$--font-mono",
                           "fontSize": 12,
                           "fontWeight": "600"
                         }
@@ -5210,7 +5213,38 @@
     },
     "--font-mono": {
       "type": "string",
-      "value": "JetBrains Mono"
+      "value": [
+        {
+          "value": "Geist Mono",
+          "theme": {
+            "Y:Base": "Neutral"
+          }
+        },
+        {
+          "value": "Geist Mono",
+          "theme": {
+            "Y:Base": "Gray"
+          }
+        },
+        {
+          "value": "Geist Mono",
+          "theme": {
+            "Y:Base": "Stone"
+          }
+        },
+        {
+          "value": "Geist Mono",
+          "theme": {
+            "Y:Base": "Zinc"
+          }
+        },
+        {
+          "value": "Geist Mono",
+          "theme": {
+            "Y:Base": "Slate"
+          }
+        }
+      ]
     },
     "--text-tertiary": {
       "type": "color",
